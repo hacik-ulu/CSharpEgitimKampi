@@ -158,7 +158,3 @@ namespace _01_MainSubjects
         }
     }
 }
-
-
-
-// Yazdırma Komutları
