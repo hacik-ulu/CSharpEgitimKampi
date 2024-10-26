@@ -47,4 +47,9 @@ Son projede, geriye değer döndüren fonksiyonlar kullanarak kullanıcı verile
 ### 📍 **PROJE 9: VERİ TABANLI ÜRÜN-KATEGORİ BİLGİ SİSTEMİ**
 Bu projede, ADO.NET kullanarak SQL Server'daki `TblCategory` tablosundan veri çekmeyi öğrendim. Kullanıcıdan hangi tabloyu görmek istediğini sorgulayarak veri tabanından bilgileri konsola yazdırdım.  Kullanıcıdan aldığım tablo numarasına göre veri çekme işlemlerini gerçekleştirdim. 🌐
 
+📍 PROJE 10: CRUD İŞLEMLERİ İLE VERİ TABANI YÖNETİMİ
+Bu projede, SQL Server ve ADO.NET kullanarak bir CRUD (Create-Read-Update-Delete) sistemi geliştirdim. Projeye ait kodlar sayesinde TblCategory ve TblProduct tablolarında veri ekleme, listeleme, güncelleme ve silme işlemlerini gerçekleştirdim.
+
+Öncelikle, SqlConnection ve SqlCommand sınıflarını kullanarak veritabanına bağlantı sağladım. AddWithValue metoduyla kullanıcıdan alınan veriyi SQL sorgusuna parametre olarak ekledim, böylece SQL enjeksiyon riskini azaltarak daha güvenli bir yapı oluşturdum. Veri listeleme işlemlerinde SqlDataAdapter ve DataTable kullanarak verileri daha rahat yönetebilir hale geldim. Bu süreçte CRUD işlemlerinin mantığını pekiştirdim ve uygulamalı olarak deneyim kazandım. 🛠️
+
 ---
