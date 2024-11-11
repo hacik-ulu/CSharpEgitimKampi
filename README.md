@@ -1,55 +1,55 @@
-# 👨‍💻 C# EĞİTİM KAMPI UYGULAMALI PROJELER
+# 👨‍💻 C# TRAINING CAMP PRACTICAL PROJECTS
 
-Aşağıda C# Eğitim Kampına ait proje ve içerikleri belirtilmiştir.
-
----
-
-### 📍 **PROJE 1: İLK ADIM - KONSOL UYGULAMASI**
-Bu projede, konsola mesaj yazdırmayı öğrendim. `Console.WriteLine()` komutu ile temel çıktı işlemleri üzerine tekrarlar yaparak bir C# programının yapı taşlarını keşfettim. 🌍
+Below are the projects and contents related to the C# Training Camp.
 
 ---
 
-### 📍 **PROJE 2: VERİ TÜRLERİ VE DEĞİŞKENLER**
-Bu projede, **int**, **string**, **double** gibi temel veri türlerini ve bu türlerde değişkenler oluşturmayı öğrendim. Farklı veri türleri üzerinde çeşitli işlemler ve denemeler yaparak kavramları pekiştirdim. 🔢
+### 📍 **PROJECT 1: FIRST STEP - CONSOLE APPLICATION**
+In this project, I learned how to print messages to the console. By using the Console.WriteLine() command, I repeated basic output operations and explored the building blocks of a C# program. 🌍
 
 ---
 
-### 📍 **PROJE 3: DİZİLER VE KOLEKSİYONLAR**
-Diziler ve listeler ile çalışarak, verileri bir arada depolama yöntemlerini öğrendim. Dizilerle ilgili birçok farklı senaryo deneyerek bu konudaki yetkinliğimi geliştirdim. 🧩
+### 📍 **PROJECT 2: DATA TYPES AND VARIABLES**
+In this project, I learned about basic data types such as int, string, double, and how to create variables in these types. I strengthened my understanding by performing various operations and experiments on different data types. 🔢
 
 ---
 
-### 📍 **PROJE 4: KARAR YAPILARI (IF-ELSE)**
-Bu projede, **if-else** yapılarını kullanarak karar mekanizmalarını keşfettim. Farklı koşulları sürekli olarak test ederek programın nasıl davranacağını öğrenmiş oldum. ⚖️
+### 📍 **PROJECT 3: ARRAYS AND COLLECTIONS**
+By working with arrays and lists, I learned methods for storing data together. I deepened my knowledge by experimenting with various array-related scenarios.  🧩
 
 ---
 
-### 📍 **PROJE 5: DÖNGÜLER İLE TEKRARLAYAN İŞLEMLER**
-**For**, **while** ve **foreach** döngüleri ile tekrarlayan işlemleri otomatikleştirmeyi öğrendim. Döngülerin nasıl çalıştığını anlamak için farklı döngü yapılarını birden çok kez kullanarak bilgimi derinleştirdim. 🔄
+### 📍 **PROJECT 4: CONDITIONAL STRUCTURES (IF-ELSE)**
+In this project, I explored decision-making structures using if-else. By continuously testing different conditions, I learned how the program behaves under different scenarios.  ⚖️
 
 ---
 
-### 📍 **PROJE 6: METOTLARLA YAPISAL PROGRAMLAMA**
-Bu projede, kodlarımı daha düzenli hale getirmek için metotlar oluşturdum. Özellikle tekrar eden kod parçalarını metodlarla sadeleştirerek, tekrarı azaltmayı ve kodu daha temiz yazmayı başardım. 🛠️
+### 📍 **PROJECT 5: LOOPS FOR REPEATING OPERATIONS**
+I learned how to automate repetitive operations using For, while, and foreach loops. I deepened my understanding of how loops work by using various loop structures multiple times. 🔄
 
 ---
 
-### 📍 **PROJE 7: FOREACH İLE SINAV NOTU HESAPLAMA**
-Bu projede, **foreach** döngüsü kullanarak öğrencilerin sınav notlarını hesaplayan bir sistem geliştirdim. Notların girişini ve ortalamaların hesaplanmasını tekrar ederek sağlam bir sistem kurmayı başardım. 🎓
+### 📍 **PROJECT 6: STRUCTURAL PROGRAMMING WITH METHODS**
+In this project, I created methods to make my code more organized. By creating methods for repeated code blocks, I reduced repetition and wrote cleaner code. 🛠️
 
 ---
 
-### 📍 **PROJE 8: FONKSİYONLAR İLE GERİYE DEĞER DÖNDÜRME**
-Son projede, geriye değer döndüren fonksiyonlar kullanarak kullanıcı verilerini işledim. Bu fonksiyonları tekrar tekrar test ederek fonksiyonel programlama yeteneklerimi artırdım. 🎗️
+### 📍 **PROJECT 7: CALCULATING EXAM GRADES WITH FOREACH**
+In this project, I developed a system to calculate students' exam grades using the foreach loop. By repeatedly calculating grades and averages, I built a solid system. 🎓
 
 ---
 
-### 📍 **PROJE 9: VERİ TABANLI ÜRÜN-KATEGORİ BİLGİ SİSTEMİ**
-Bu projede, ADO.NET kullanarak SQL Server'daki `TblCategory` tablosundan veri çekmeyi öğrendim. Kullanıcıdan hangi tabloyu görmek istediğini sorgulayarak veri tabanından bilgileri konsola yazdırdım.  Kullanıcıdan aldığım tablo numarasına göre veri çekme işlemlerini gerçekleştirdim. 🌐
+### 📍 **PROJECT 8: FUNCTIONS WITH RETURNING VALUES**
+In this project, I processed user data using functions that return values. I enhanced my functional programming skills by repeatedly testing these functions. 🎗️
 
-📍 PROJE 10: CRUD İŞLEMLERİ İLE VERİ TABANI YÖNETİMİ
-Bu projede, SQL Server ve ADO.NET kullanarak bir CRUD (Create-Read-Update-Delete) sistemi geliştirdim. Projeye ait kodlar sayesinde TblCategory ve TblProduct tablolarında veri ekleme, listeleme, güncelleme ve silme işlemlerini gerçekleştirdim.
+---
 
-Öncelikle, SqlConnection ve SqlCommand sınıflarını kullanarak veritabanına bağlantı sağladım. AddWithValue metoduyla kullanıcıdan alınan veriyi SQL sorgusuna parametre olarak ekledim, böylece SQL enjeksiyon riskini azaltarak daha güvenli bir yapı oluşturdum. Veri listeleme işlemlerinde SqlDataAdapter ve DataTable kullanarak verileri daha rahat yönetebilir hale geldim. Bu süreçte CRUD işlemlerinin mantığını pekiştirdim ve uygulamalı olarak deneyim kazandım. 🛠️
+### 📍 **PROJECT 9: DATABASE-BASED PRODUCT-CATEGORY INFORMATION SYSTEM**
+In this project, I learned how to retrieve data from the TblCategory table in SQL Server using ADO.NET. I asked the user which table they wanted to view, and then displayed data from the database based on their selection.  🌐
+
+---
+
+### 📍 **PROJECT 10: DATABASE MANAGEMENT WITH CRUD OPERATIONS**
+In this project, I developed a CRUD (Create-Read-Update-Delete) system using SQL Server and ADO.NET. Using SQL Connection and SQL Command classes, I connected to the database. I added user input to SQL queries using the AddWithValue method to reduce the risk of SQL injection and created a more secure structure. During the data listing process, I used SqlDataAdapter and DataTable to manage the data more effectively. Through this process, I reinforced my understanding of CRUD operations and gained hands-on experience. 🛠️
 
 ---
